@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Anushka Bhardwaj</h1>
-<h3 align="center">Passionate about transforming data into intelligence through AI</h3>
+<h3 align="center">Passionate about transforming data into intelligence</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+  <a href="https://www.linkedin.com/in/anushka-bhardwaj6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:anushkbha29@gmail.com">
@@ -21,15 +21,9 @@
 
 ### 🛠️ Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,excel,flutter,dart,html,css,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,excel,mysql,C++,flutter,dart,html,css,git,github" />
 </p>
 
 ---
 
-### 💡 Specialties
-- Aspiring Artificial Intelligence 
-
-
----
-
-<p align="center"><i>"Code + Creativity = Impact"</i></p>
+<p align="center"><i>"The best data isn't just collected. It's understood, analyzed, and experienced through a narrative."</i></p>
